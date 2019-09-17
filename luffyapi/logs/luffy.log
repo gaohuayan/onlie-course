@@ -1,0 +1,121 @@
+INFO 2019-09-16 20:07:15,176 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-09-16 20:07:27,670 log 228 Not Found: /
+WARNING 2019-09-16 20:07:27,673 basehttp 154 "GET / HTTP/1.1" 404 2048
+WARNING 2019-09-16 20:07:27,934 log 228 Not Found: /favicon.ico
+WARNING 2019-09-16 20:07:27,937 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2099
+INFO 2019-09-16 20:07:39,733 basehttp 154 "GET /xadmin HTTP/1.1" 301 0
+INFO 2019-09-16 20:07:39,995 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4151
+INFO 2019-09-16 20:07:40,050 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2019-09-16 20:07:40,061 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2019-09-16 20:07:40,119 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2019-09-16 20:07:40,154 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4158
+INFO 2019-09-16 20:07:40,156 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2019-09-16 20:07:40,169 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2019-09-16 20:07:40,185 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2019-09-16 20:07:40,190 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2019-09-16 20:07:40,200 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2019-09-16 20:07:40,229 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2019-09-16 20:07:40,235 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2019-09-16 20:07:40,264 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2019-09-16 20:07:40,275 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2019-09-16 20:07:40,302 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2019-09-16 20:07:40,308 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2019-09-16 20:07:40,575 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2019-09-16 20:07:48,917 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2019-09-16 20:07:49,033 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 10155
+INFO 2019-09-16 20:07:49,113 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2019-09-16 20:07:49,114 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2019-09-16 20:07:49,116 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2019-09-16 20:07:49,158 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:07:59,444 basehttp 154 "GET /xadmin/user/user/ HTTP/1.1" 200 30039
+INFO 2019-09-16 20:07:59,528 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2019-09-16 20:07:59,528 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2019-09-16 20:07:59,529 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2019-09-16 20:07:59,530 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2019-09-16 20:07:59,531 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2019-09-16 20:07:59,559 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:07:59,565 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2019-09-16 20:07:59,569 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2019-09-16 20:08:20,961 basehttp 154 "GET /xadmin/user/user/?o=-username HTTP/1.1" 200 31578
+INFO 2019-09-16 20:08:21,037 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:08:22,808 basehttp 154 "GET /xadmin/user/user/?o=username HTTP/1.1" 200 31539
+INFO 2019-09-16 20:08:22,885 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:08:28,438 basehttp 154 "GET /xadmin/xadmin/log/ HTTP/1.1" 200 25892
+INFO 2019-09-16 20:08:28,535 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,538 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,540 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,542 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,543 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,547 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,609 basehttp 154 "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+INFO 2019-09-16 20:08:28,615 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,615 basehttp 154 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2019-09-16 20:08:28,616 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2019-09-16 20:08:28,618 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2019-09-16 20:08:28,642 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:08:28,688 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,725 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,729 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,730 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,731 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,732 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,734 basehttp 154 "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+INFO 2019-09-16 20:08:28,799 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:28,804 basehttp 154 "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+INFO 2019-09-16 20:08:28,804 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+INFO 2019-09-16 20:08:28,826 basehttp 154 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2019-09-16 20:08:28,838 basehttp 154 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2019-09-16 20:08:28,842 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2019-09-16 20:08:28,884 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2019-09-16 20:08:31,841 basehttp 154 "GET /xadmin/reversion/revision/ HTTP/1.1" 200 24730
+INFO 2019-09-16 20:08:31,955 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:08:33,993 basehttp 154 "GET /xadmin/user/user/ HTTP/1.1" 200 30039
+INFO 2019-09-16 20:08:34,070 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:09:26,986 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 10155
+INFO 2019-09-16 20:09:27,026 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,064 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,067 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,069 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,070 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,088 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,090 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,105 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,115 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,119 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,157 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,159 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,159 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,161 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-16 20:09:27,168 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,180 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,209 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,210 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2019-09-16 20:09:27,332 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2019-09-16 20:19:30,808 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\settings\dev.py changed, reloading.
+INFO 2019-09-16 20:19:38,792 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:23:06,188 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\urls.py changed, reloading.
+INFO 2019-09-16 20:23:14,622 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:24:31,734 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\urls.py changed, reloading.
+INFO 2019-09-16 20:24:39,567 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:25:33,994 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\models.py changed, reloading.
+INFO 2019-09-16 20:25:41,798 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:36:46,520 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\models.py changed, reloading.
+INFO 2019-09-16 20:36:55,367 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:37:53,755 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\models.py changed, reloading.
+INFO 2019-09-16 20:38:00,548 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:40:18,743 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\models.py changed, reloading.
+INFO 2019-09-16 20:40:25,147 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:41:30,381 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\models.py changed, reloading.
+INFO 2019-09-16 20:41:36,538 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:46:48,243 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\urls.py changed, reloading.
+INFO 2019-09-16 20:46:55,144 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:49:54,905 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\urls.py changed, reloading.
+INFO 2019-09-16 20:50:02,505 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:50:11,807 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-16 20:50:18,170 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:51:43,328 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-16 20:51:51,255 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:55:50,989 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-16 20:55:58,210 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-16 20:57:12,318 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\urls.py changed, reloading.
+INFO 2019-09-16 20:57:19,710 autoreload 597 Watching for file changes with StatReloader
