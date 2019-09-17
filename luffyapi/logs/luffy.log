@@ -119,3 +119,26 @@ INFO 2019-09-16 20:55:50,989 autoreload 217 C:\Users\13059\Desktop\luffy\luffyap
 INFO 2019-09-16 20:55:58,210 autoreload 597 Watching for file changes with StatReloader
 INFO 2019-09-16 20:57:12,318 autoreload 217 C:\Users\13059\Desktop\luffy\luffyapi\luffyapi\apps\home\urls.py changed, reloading.
 INFO 2019-09-16 20:57:19,710 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 00:42:55,837 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 00:44:43,624 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 00:56:27,664 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 00:56:45,214 basehttp 154 "GET /home/banners/ HTTP/1.1" 200 2
+INFO 2019-09-18 01:00:40,612 basehttp 154 "GET /home/banners/ HTTP/1.1" 200 2
+INFO 2019-09-18 01:00:43,405 basehttp 154 "GET /home/banners/ HTTP/1.1" 200 2
+INFO 2019-09-18 01:14:58,826 autoreload 217 C:\Users\13059\Desktop\proj\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-18 01:15:06,109 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:26:33,544 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:26:55,544 autoreload 217 C:\Users\13059\Desktop\proj\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-18 01:27:02,550 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:27:09,595 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:27:30,914 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:27:39,688 basehttp 154 "GET /home/banners/ HTTP/1.1" 200 146
+INFO 2019-09-18 01:28:41,197 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:28:51,623 autoreload 217 C:\Users\13059\Desktop\proj\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-18 01:28:51,776 autoreload 217 C:\Users\13059\Desktop\proj\luffyapi\luffyapi\apps\home\views.py changed, reloading.
+INFO 2019-09-18 01:28:59,959 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:28:59,988 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:30:25,751 basehttp 154 "GET /home/banners/ HTTP/1.1" 200 108
+INFO 2019-09-18 01:32:23,558 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-18 01:32:39,010 basehttp 154 "GET /home/banners/ HTTP/1.1" 200 108
+INFO 2019-09-18 01:32:52,502 autoreload 597 Watching for file changes with StatReloader

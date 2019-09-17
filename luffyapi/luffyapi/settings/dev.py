@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     # 为模型通过版本控制，可以回滚数据
     'reversion',
+    'corsheaders',
 
     'apps.user',
     'apps.home',
@@ -64,6 +65,14 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+
+CORS_ORIGIN_ALLOW_ALL = False
+CORS_ORIGIN_WHITELIST = [
+    'http://127.0.0.1:8080',
+    'http://localhost:8080',
+]
+
 
 ROOT_URLCONF = 'luffyapi.urls'
 
@@ -210,4 +219,20 @@ CACHES = {
             "CONNECTION_POOL_KWARGS": {"max_connections": 100}
         }
     }
+}
+
+
+REST_FRAMEWORK = {
+    # Throttling
+    'DEFAULT_THROTTLE_RATES': {
+        'user': None,
+        'anon': None,
+        'sms': '1/min'
+    },
+}
+
+
+import datetime
+JWT_AUTH = {
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1)
 }
